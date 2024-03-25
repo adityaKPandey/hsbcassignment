@@ -29,13 +29,5 @@ public class FileProcessorDemoApplication {
 
     contentWriter.write(contentReader.read(READ_PATH),WRITE_PATH);
 
-
-        /*
-    //TODO
-    1. Local test execution
-    2. Add unit tests - mock file operations,
-    3. Push code to personal git https://github.com/adityaKPandey/hsbcassignment
-    */
-
   }
 }
