@@ -1,0 +1,10 @@
+com\hsbc\writer\FileContentWriter.class
+com\hsbc\exception\FileReadException.class
+com\hsbc\exception\FileWriteException.class
+com\hsbc\FileProcessorApplication.class
+com\hsbc\reader\ReversedFileContentReader.class
+com\hsbc\processor\Operation.class
+com\hsbc\processor\TextOperation.class
+com\hsbc\Constants.class
+com\hsbc\reader\ContentReader.class
+com\hsbc\writer\ContentWriter.class
